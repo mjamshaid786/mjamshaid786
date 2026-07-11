@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Muhammad Jamshaid</h1>
 
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://instagram.com/mni.light007" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
