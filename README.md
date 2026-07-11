@@ -13,12 +13,7 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
-</picture>
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
@@ -38,6 +33,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mjamshaid786&theme=date_night&hide_border=false" alt="GitHub Streak"><br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mjamshaid786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
