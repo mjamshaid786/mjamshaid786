@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=180&section=header&text=Hey%20👋,%20I'm%20Muhammad%20Jamshaid&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=4&section=header" width="100%" alt="divider">
+</p>
+
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://instagram.com/mni.light007" target="_blank">
@@ -16,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=3&section=header" width="100%" alt="divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=4&section=header" width="100%" alt="divider">
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -36,21 +40,32 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=3&section=header" width="100%" alt="divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=4&section=header" width="100%" alt="divider">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mjamshaid786&theme=highcontrast&hide_border=false&background=800000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"><br><br>
+  <img src="https://streak-stats.demolab.com/?user=mjamshaid786&theme=highcontrast&hide_border=false&background=800000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mjamshaid786&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=800000" alt="Top Languages">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=4&section=header" width="100%" alt="divider">
+</p>
+
+<h2 align="center">🕹️ Contribution Graph</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/output/pacman-contribution-graph.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=4&section=header" width="100%" alt="divider">
 </p>
 
 <p align="center">
