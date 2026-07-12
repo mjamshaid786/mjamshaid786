@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="naam.png" alt="Mᴜʜᴀᴍᴍᴀᴅ Jᴀᴍꜱʜᴀɪᴅ" width="600">
+ <img src="namee.png" alt="Mᴜʜᴀᴍᴍᴀᴅ Jᴀᴍꜱʜᴀɪᴅ" width="600">
 </h1>
 
 <h2 align="center">🌐 Socials</h2>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mjamshaid786&theme=date_night&hide_border=false" alt="GitHub Streak"><br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mjamshaid786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
