@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="name.png" alt="Mᴜʜᴀᴍᴍᴀᴅ Jᴀᴍꜱʜᴀɪᴅ" width="600">
+ <img src="naam.png" alt="Mᴜʜᴀᴍᴍᴀᴅ Jᴀᴍꜱʜᴀɪᴅ" width="600">
 </h1>
 
 <h2 align="center">🌐 Socials</h2>
