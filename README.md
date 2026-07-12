@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="Screenshot_2026-07-12_091416-removebg-preview.png" alt="Muhammad Jamshaid" width="600">
+ <img src="name.png" alt="Mᴜʜᴀᴍᴍᴀᴅ Jᴀᴍꜱʜᴀɪᴅ" width="600">
 </h1>
 
 <h2 align="center">🌐 Socials</h2>
