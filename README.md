@@ -41,7 +41,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mjamshaid786&theme=date_night&hide_border=false" alt="GitHub Streak"><br><br>
+  <img src="https://raw.githubusercontent.com/mjamshaid786/mjamshaid786/main/profile/streak.svg" alt="GitHub Streak"><br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mjamshaid786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 
 
